@@ -1,17 +1,18 @@
 class script(object):
 
     START_TXT = """<b>ʜᴇʏ {}, <i>{}</i>
-    
-ɪ ᴀᴍ ᴘᴏᴡᴇʀғᴜʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴀꜱ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ᴡɪᴛʜ ʟɪɴᴋ sʜᴏʀᴛᴇɴᴇʀ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ... ɪᴛ'ꜱ ᴇᴀꜱʏ ᴛᴏ ᴜꜱᴇ ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀꜱ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ᴍᴏᴠɪᴇꜱ ᴡɪᴛʜ ʏᴏᴜʀ ʟɪɴᴋ ꜱʜᴏʀᴛᴇɴᴇʀ... ♻️</b>"""
+    Here is the text in the same font style:
 
-    MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
+ɪ ᴀᴍ ɪɴғɪɴɪᴛʏ ᴍᴏᴠɪᴇꜱ ʜᴜʙ ᴛʜᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟ ᴍᴏᴠɪᴇs ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Fᴛᴍ Dᴇᴠᴇʟᴏᴘᴇʀᴢ. ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴍᴇ ᴛᴏ ɢᴇᴛ ᴀɴʏ ᴍᴏᴠɪᴇs, ᴡᴇʙ sᴇʀɪᴇs, ᴄᴀʀᴛᴏᴏɴs, ᴀɴɪᴍᴇ, ʀᴇᴀʟɪᴛʏ sʜᴏᴡs, ᴀɴᴅ ᴍᴀɴʏ ᴍᴏʀᴇ. ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ sᴛʀᴇᴀᴍ ᴏʀ ɢᴇɴᴇʀᴀᴛᴇ dɪʀᴇᴄᴛ lɪɴᴋ ᴏғ ᴀɴʏ vɪᴅᴇᴏ yoᴜ ᴡᴀɴᴛ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ. ɪᴛ'ꜱ ᴠᴇʀʏ ᴇᴀꜱʏ ᴛᴏ ᴜsᴇ ᴍᴇ, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀᴅᴍɪɴ ɪɴ yoᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴀsᴋ ᴍᴇ ғᴏʀ ᴀɴʏ ᴍᴏᴠɪᴇ ɪɴ ᴍʏ PM ᴀlsᴏ. ᴀɴᴅ ɪғ yoᴜ ᴀᴅᴅ ᴍᴇ ɪɴ yoᴜʀ ɢʀᴏᴜᴘ, ɪ ᴡɪʟʟ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇɪʀ ᴍᴏᴠɪᴇs wɪᴛʜ yoᴜʀ ᴄʜᴏɪᴄᴇ..... ♻️</b>"""
+
+    MY_ABOUT_TXT = """★ Server: <a href=https://www.vps.com>VPS</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
-★ Username: @HA_Bots
-★ Country: Sri Lanka 🇱🇰"""
+    MY_OWNER_TXT = """★ Name: Fᴛᴍ Dᴇᴠᴇʟᴏᴘᴇʀᴢ
+★ Username: @ftmdeveloperz
+★ Country: India 🇮🇳"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -77,7 +78,8 @@ I can't find the <b>{}</b> in my database! 🥲
 📀 RunTime: {runtime} Minutes
 
 🗣 Requested by: {message.from_user.mention}
-©️ Powered by: <b>{message.chat.title}</b>"""
+©️ Powered by: <b>{message.chat.title}
+🎊 Made with ❤️ by Fᴛᴍ Dᴇvᴇʟᴏᴘᴇʀᴢ</b>"""
 
     FILE_CAPTION = """<i>{file_name}</i>
 
