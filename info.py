@@ -72,7 +72,7 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/ftmbotzx')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/ftmbotzx_support')
 OWNER_USERNAME = environ.get("OWNER_USERNAME", "https://t.me/ftmdeveloperz")
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/ftmbotzx')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/ftmmovieskiduniya')
